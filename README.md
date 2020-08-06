@@ -1,0 +1,2 @@
+# AutoStartAndKeepAlive
+在androi端实现自启动及保活
